@@ -57,4 +57,5 @@ jobs:
           command: dockerize -wait tcp://localhost:3306 -timeout 1m
 
       # specify any bash command here prefixed with `run: `
+      - run: mix ecto.create --quiet
       - run: mix test
