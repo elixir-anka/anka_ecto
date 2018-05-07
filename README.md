@@ -1,7 +1,7 @@
 [`Anka`](https://github.com/elixir-anka/anka).`Ecto` helps to create Ecto schemas and their context functions with optionally definable pre/post processors
 that prepare CRUDL resources from models based on Anka.Model.
 
-[![Hex Version](https://img.shields.io/hexpm/v/anka_ecto.svg?style=flat-square)](https://hex.pm/packages/anka_ecto) [![Docs](https://img.shields.io/badge/api-docs-orange.svg?style=flat-square)](https://hexdocs.pm/anka_ecto) [![Hex downloads](https://img.shields.io/hexpm/dt/anka_ecto.svg?style=flat-square)](https://hex.pm/packages/anka_ecto) [![GitHub](https://img.shields.io/badge/vcs-GitHub-blue.svg?style=flat-square)](https://github.com/elixir-anka_ecto/anka_ecto) [![MIT License](https://img.shields.io/hexpm/l/anka_ecto.svg?style=flat-square)](LICENSE.txt)
+[![Hex Version](https://img.shields.io/hexpm/v/anka_ecto.svg?style=flat-square)](https://hex.pm/packages/anka_ecto) [![Docs](https://img.shields.io/badge/api-docs-orange.svg?style=flat-square)](https://hexdocs.pm/anka_ecto) [![Hex downloads](https://img.shields.io/hexpm/dt/anka_ecto.svg?style=flat-square)](https://hex.pm/packages/anka_ecto) [![GitHub](https://img.shields.io/badge/vcs-GitHub-blue.svg?style=flat-square)](https://github.com/elixir-anka/anka_ecto) [![MIT License](https://img.shields.io/hexpm/l/anka_ecto.svg?style=flat-square)](LICENSE.txt)
 
 ![Anka.Ecto](banner.png)
 
